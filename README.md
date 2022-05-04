@@ -8,3 +8,5 @@ fuj kera beda
 
 - Luka Raičević
 - Eva Juvanc
+
+## Opis uporabe robota
