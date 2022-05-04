@@ -1,8 +1,10 @@
 # vislice
+
 une črke
+
 fuj kera beda
 
 ## Avtorji:
 
-- kreten
-- nadležna gospa
+- Luka Raičević
+- Eva Juvanc
